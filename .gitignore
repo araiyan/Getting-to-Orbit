@@ -1,0 +1,18 @@
+
+.vs/Getting to Orbit/v16/.suo
+.vs
+boost_1_55_0
+boost_1_66_0
+x64
+Getting to Orbit/v16
+Getting to Orbit/libs
+Getting to Orbit/x64
+*.7z
+*.sln
+*.props
+*.vcxproj
+*.filters
+*.user
+*.dll
+*.html
+Getting to Orbit/SFML-2.5.1
